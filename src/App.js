@@ -12,5 +12,6 @@ function App() {
     </div>
   );
 }
+console.log("trilok")
 
 export default App;
